@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tejask2567
-- 👀 I’m interested in machone learning and data managment
+- 👀 I’m interested in machine learning and data managment
 - 🌱 I’m currently learning c,c++,python [yeah its hectic]
-- 💞️ I’m looking to collaborate on none for now maybe in future
+- 💞️ I’m looking to collaborate on python in machine learning applications.
 - 📫 How to reach me E-mail: tejask2567@gmail.com , tek21aiml@cmrit.ac.in
 
 <!---
