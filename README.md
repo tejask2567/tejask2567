@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejask2567
-- 👀 I’m interested in machine learning and data managment
-- 🌱 I’m currently learning c,c++,python [yeah its hectic]
+- 👀 I’m interested in machine learning and Big-Data.
+- 🌱 I’m currently learning C ,python and full stack web-development.
 - 💞️ I’m looking to collaborate on python in machine learning applications.
 - 📫 How to reach me E-mail: tejask2567@gmail.com , tek21aiml@cmrit.ac.in
 
